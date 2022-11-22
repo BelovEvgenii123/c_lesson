@@ -1,0 +1,15 @@
+/Users/evgenijbelov/Documents/GB/c#/lesson/l2/z3/obj/Debug/net7.0/z3.csproj.AssemblyReference.cache
+/Users/evgenijbelov/Documents/GB/c#/lesson/l2/z3/obj/Debug/net7.0/z3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijbelov/Documents/GB/c#/lesson/l2/z3/obj/Debug/net7.0/z3.AssemblyInfoInputs.cache
+/Users/evgenijbelov/Documents/GB/c#/lesson/l2/z3/obj/Debug/net7.0/z3.AssemblyInfo.cs
+/Users/evgenijbelov/Documents/GB/c#/lesson/l2/z3/obj/Debug/net7.0/z3.csproj.CoreCompileInputs.cache
+/Users/evgenijbelov/Documents/GB/c#/lesson/l2/z3/bin/Debug/net7.0/z3
+/Users/evgenijbelov/Documents/GB/c#/lesson/l2/z3/bin/Debug/net7.0/z3.deps.json
+/Users/evgenijbelov/Documents/GB/c#/lesson/l2/z3/bin/Debug/net7.0/z3.runtimeconfig.json
+/Users/evgenijbelov/Documents/GB/c#/lesson/l2/z3/bin/Debug/net7.0/z3.dll
+/Users/evgenijbelov/Documents/GB/c#/lesson/l2/z3/bin/Debug/net7.0/z3.pdb
+/Users/evgenijbelov/Documents/GB/c#/lesson/l2/z3/obj/Debug/net7.0/z3.dll
+/Users/evgenijbelov/Documents/GB/c#/lesson/l2/z3/obj/Debug/net7.0/refint/z3.dll
+/Users/evgenijbelov/Documents/GB/c#/lesson/l2/z3/obj/Debug/net7.0/z3.pdb
+/Users/evgenijbelov/Documents/GB/c#/lesson/l2/z3/obj/Debug/net7.0/z3.genruntimeconfig.cache
+/Users/evgenijbelov/Documents/GB/c#/lesson/l2/z3/obj/Debug/net7.0/ref/z3.dll
